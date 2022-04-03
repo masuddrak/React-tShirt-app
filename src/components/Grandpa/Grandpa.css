@@ -1,0 +1,10 @@
+.gradpa{
+    border: 1px solid rgb(14, 9, 1);
+    margin: 20px;
+    display: flex;
+}
+.gradpa div{
+    border: 1px solid orange;
+    margin: 10px;
+    padding: 20px;
+}
